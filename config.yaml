@@ -1,0 +1,3 @@
+reference: reference/GRCh38.fa
+known_sites: reference/dbsnp_146.hg38.vcf.gz
+threads: 8
